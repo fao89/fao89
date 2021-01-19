@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Pulp](https://pulpproject.org/)
 
-- 📫 How to reach me **fabricio.aguiar@redhat.com**
+- 📫 How to reach me **fabricio@redhat.com**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fao89&show_icons=true" alt="fao89" /> </p>
 
