@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer @ Red Hat</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fao89" alt="fao89" /> </p>
 
-- 🔭 I’m currently working on [Pulp](https://pulpproject.org/)
+- 🔭 I’m currently working on [OpenStack](https://www.redhat.com/en/technologies/linux-platforms/openstack-platform)
 
 - 📫 How to reach me **fabricio@redhat.com**
 
