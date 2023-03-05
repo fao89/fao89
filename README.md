@@ -13,7 +13,9 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=fao89&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fao89&show-avatar=false" width="800" />
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=fao89&skills=python,go,rust,shell,html,javascript" width="800" />
 ---
 
 <p align="center">
