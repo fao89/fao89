@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer @ Red Hat</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fao89" alt="fao89" /> </p>
 
-- 🔭 I’m currently working on [Ansible Automation Platform](https://ansible.com)
+- 🔭 I’m currently working on [OpenShift Container Platform](https://openshift.com)
 
 - 📫 How to reach me **fabricio@redhat.com**
 
